@@ -1,7 +1,6 @@
-// Mengimpor modul yang diperlukan
-import 'package:basics/question_screen.dart';  // Mengimpor layar pertanyaan
-import 'package:basics/start_screen.dart';     // Mengimpor layar awal
-import 'package:flutter/material.dart';        // Mengimpor pustaka Material Design dari Flutter
+import 'package:basics/question_screen.dart';
+import 'package:basics/start_screen.dart';
+import 'package:flutter/material.dart';
 
 // Kelas utama yang merupakan StatefulWidget untuk aplikasi kuis
 class Quiz extends StatefulWidget {
