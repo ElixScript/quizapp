@@ -1,20 +1,18 @@
-<<<<<<< HEAD
-# basics
+# Flutter Quiz App
 
-A new Flutter project.
+A simple quiz application built with Flutter that includes a Start Screen and a Question Screen. This project is a great starting point for learning Flutter and understanding basic navigation and UI components.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📋 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Start Screen**:  
+  - Displays a logo, welcome message, and a button to start the quiz.  
+- **Question Screen**:  
+  - Displays a question and multiple answer options.  
+- **Modular Design**:  
+  - Each screen is implemented as a separate widget for clean and scalable code.  
+- **Custom Components**:  
+  - Includes reusable widgets like `AnswerButton` for streamlined UI development.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# quizapp
->>>>>>> 03df0cc126f06d07396f6cae6ab503e60894d1a9
+---
